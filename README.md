@@ -1,3 +1,5 @@
+# the list above is the list of papers that I personally presented, actually it is plus the novel modelings presented by 6 other people 
+
 # Motion-Learning_Project
 open PNG file (at the end of the list above) to see a fully descripted article about Motion-Learning_Project
 
