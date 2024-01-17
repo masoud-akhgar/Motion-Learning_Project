@@ -5,5 +5,5 @@ open PNG file (at the end of the list above) to see a fully descripted article a
 
 I learned different and novel models through this research such as :
 - various Mathematics rules 
-- LSTM-based or Neural Network Based Prediction Systems
-- How to utilizing Image and Signal Processing methods in commerical system models
+- RNN / LSTM-based or generally Neural Network Based Prediction Systems
+- novel ideas about utilizing Images and Signals' data to develop models in commerical systems
